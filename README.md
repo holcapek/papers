@@ -1,3 +1,3 @@
 # Table of Contents
 
-- [Out of the Tar Pit](#out-of-the-tar-pit) (2006)
+- [Out of the Tar Pit](tarpit.md) (2006)
